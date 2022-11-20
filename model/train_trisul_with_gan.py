@@ -175,7 +175,7 @@ def test(model, data, save= True, take_entire_data= True):
     y_pred= de_normalize(res_pred)
 
 
-#calulcate evaluation metric
+#calculate evaluation metric
 
     rmse= calc_rms(y_true, y_pred)
     y_pred= np.array([round(x) for x in y_pred])
