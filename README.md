@@ -1,7 +1,5 @@
 # Trident
 ** Trident is a multi-modal novel recommendation model. **
 In order to run this model: <br/>
----
-cd model
-run python train_trisul_with_gan.py
----
+cd model <br/>
+`run python train_trisul_with_gan.py`
