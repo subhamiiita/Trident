@@ -1,5 +1,5 @@
 # Trident
-**Trident is a multi-modal novel recommendation model.**
+**Trident is a novel multi-modal recommendation model.**
 <br/>
 To run this model: <br/>
 `cd model` <br/>
